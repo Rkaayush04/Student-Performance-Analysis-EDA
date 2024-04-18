@@ -1,6 +1,7 @@
 # Student-Performance-Analysis-EDA
 This repository contains an analysis of student performance data. The dataset includes information on students' scores in various subjects, such as math, reading, and writing, as well as additional demographic information like gender, ethnicity, parental level of education, and lunch type.
 **Visualization**
+
 Fig:Distribution of Total Score by Gender (Boxplot)
 ![image](https://github.com/Rkaayush04/Student-Performance-Analysis-EDA/assets/152067559/c2211300-7ff4-41da-9b21-ffbde039be2c)
 
